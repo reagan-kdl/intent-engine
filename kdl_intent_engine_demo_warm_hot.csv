@@ -1,0 +1,331 @@
+lead_id,channel,industry,job_title_seniority,employee_size_bucket,business_email,sessions_30d,pageviews_30d,service_page_views_30d,case_study_views_30d,pricing_page_views_30d,form_starts_30d,form_submits_30d,email_opens_30d,email_clicks_30d,days_since_last_session,created_at,converted
+Cold_0010,Direct,Home Services,IC,51-200,1,1,2,0,0,0,0,0,0,0,18,2025-02-08T00:00:00,0
+Warm_0025,Organic,Healthcare,Director,11-50,1,0,6,2,0,1,0,0,2,0,20,2025-01-07T00:00:00,0
+Cold_0140,Referral,Home Services,VP,11-50,1,1,1,0,0,0,1,0,0,1,22,2025-03-13T00:00:00,0
+Cold_0047,Paid Search,Home Services,IC,1-10,0,4,10,0,1,2,0,0,1,0,15,2025-07-25T00:00:00,0
+Cold_0095,Paid Search,Healthcare,IC,1-10,1,3,9,1,0,2,1,0,0,0,9,2025-05-01T00:00:00,0
+Cold_0102,Organic,Home Services,Manager,1-10,1,1,9,0,1,1,0,0,3,1,10,2025-04-07T00:00:00,0
+Cold_0085,Organic,Healthcare,IC,1-10,0,0,8,2,1,1,1,0,1,0,13,2025-09-05T00:00:00,0
+Hot_0062,Paid Search,Retail,VP,51-200,1,10,15,7,1,1,1,1,1,0,2,2025-06-09T00:00:00,1
+Hot_0067,Paid Search,Home Services,IC,1-10,1,3,19,9,0,2,3,2,1,1,0,2025-01-21T00:00:00,1
+Warm_0080,Referral,Retail,Manager,51-200,1,4,8,1,3,1,0,0,1,0,7,2025-08-14T00:00:00,0
+Warm_0036,Referral,Home Services,Manager,51-200,1,3,14,2,1,1,1,0,0,1,8,2025-01-25T00:00:00,0
+Hot_0070,Referral,Professional Services,Manager,200+,0,3,8,2,2,4,2,0,6,1,0,2025-03-03T00:00:00,0
+Cold_0074,Paid Search,Retail,Manager,11-50,0,0,5,1,1,1,0,0,0,0,7,2025-05-27T00:00:00,0
+Cold_0056,Organic,Healthcare,IC,11-50,1,4,4,0,1,2,0,0,1,0,15,2025-04-27T00:00:00,0
+Hot_0011,Organic,SaaS,VP,11-50,1,6,14,3,3,1,1,1,1,2,0,2025-09-18T00:00:00,0
+Cold_0138,Paid Search,Healthcare,C-Suite,1-10,1,2,5,1,1,2,0,0,0,0,11,2025-12-18T00:00:00,0
+Cold_0125,Organic,SaaS,C-Suite,51-200,0,1,6,1,0,0,0,0,3,0,12,2025-04-15T00:00:00,0
+Hot_0078,Paid Search,SaaS,VP,11-50,1,3,7,1,1,0,0,1,1,1,7,2025-11-20T00:00:00,0
+Cold_0083,Referral,Healthcare,Manager,11-50,0,0,3,3,0,0,0,0,2,0,16,2025-01-21T00:00:00,0
+Warm_0038,Paid Search,Manufacturing,Director,11-50,1,3,6,2,1,4,0,0,2,0,8,2025-07-11T00:00:00,1
+Cold_0006,Referral,Home Services,Manager,51-200,0,3,3,2,0,0,0,0,1,0,20,2025-03-28T00:00:00,0
+Cold_0043,Paid Search,Home Services,Director,11-50,0,3,6,2,1,0,2,0,0,1,10,2025-12-24T00:00:00,0
+Cold_0120,Organic,Retail,Director,11-50,1,1,5,1,0,0,0,0,0,0,15,2025-10-14T00:00:00,0
+Hot_0057,Email,Manufacturing,Manager,51-200,1,7,19,5,1,6,3,2,4,0,0,2025-01-28T00:00:00,1
+Cold_0026,Referral,SaaS,Director,51-200,1,2,2,1,0,0,0,0,0,0,21,2025-06-23T00:00:00,0
+Cold_0111,Direct,Home Services,Manager,200+,1,1,8,2,0,1,0,0,1,1,13,2025-08-12T00:00:00,0
+Hot_0040,Paid Search,Professional Services,Manager,51-200,0,1,13,7,2,4,2,2,3,2,0,2025-11-23T00:00:00,1
+Hot_0007,Paid Social,Manufacturing,VP,51-200,1,4,7,5,3,2,3,1,3,1,0,2025-09-25T00:00:00,1
+Hot_0029,Organic,Manufacturing,Manager,11-50,0,5,14,3,5,5,2,1,4,2,1,2025-07-05T00:00:00,1
+Warm_0098,Direct,Healthcare,IC,200+,1,4,9,0,1,1,5,0,4,1,4,2025-03-09T00:00:00,1
+Hot_0013,Email,Manufacturing,IC,1-10,0,7,12,5,4,0,1,3,7,1,0,2025-02-12T00:00:00,1
+Hot_0048,Email,Retail,VP,1-10,1,4,12,5,1,2,4,2,4,1,2,2025-08-10T00:00:00,1
+Warm_0071,Organic,Healthcare,VP,51-200,1,7,9,2,1,2,1,1,1,0,17,2025-04-17T00:00:00,0
+Warm_0093,Organic,Healthcare,Director,51-200,1,5,13,5,2,1,2,0,4,0,2,2025-10-22T00:00:00,1
+Hot_0023,Direct,Manufacturing,Manager,11-50,1,5,15,7,1,3,5,2,4,0,4,2025-12-21T00:00:00,1
+Hot_0061,Paid Search,Manufacturing,VP,51-200,0,5,6,1,3,4,2,1,3,0,2,2025-10-26T00:00:00,0
+Warm_0043,Paid Social,SaaS,Manager,11-50,1,5,12,3,3,2,0,0,1,0,6,2025-06-10T00:00:00,1
+Cold_0058,Paid Search,Manufacturing,VP,11-50,1,1,2,0,1,0,1,0,2,0,10,2025-03-03T00:00:00,0
+Cold_0034,Paid Social,SaaS,IC,11-50,0,2,14,2,0,1,0,0,2,0,16,2025-10-02T00:00:00,1
+Cold_0064,Paid Social,Home Services,C-Suite,200+,0,2,2,0,0,0,0,0,2,0,18,2025-07-05T00:00:00,0
+Warm_0029,Referral,Home Services,VP,11-50,1,2,6,2,0,0,1,0,0,0,7,2025-07-14T00:00:00,0
+Hot_0049,Referral,Home Services,Manager,11-50,1,5,8,3,0,1,0,1,2,0,0,2025-04-19T00:00:00,1
+Warm_0037,Referral,Manufacturing,Manager,11-50,0,5,8,2,1,0,1,0,0,0,7,2025-01-20T00:00:00,1
+Cold_0112,Organic,Home Services,IC,11-50,1,2,6,2,0,1,0,0,4,0,13,2025-12-31T00:00:00,0
+Hot_0022,Referral,Manufacturing,Director,11-50,1,5,23,4,0,4,0,1,1,0,0,2025-06-03T00:00:00,1
+Cold_0046,Paid Search,SaaS,Manager,200+,1,1,1,2,0,0,0,0,1,0,16,2025-04-16T00:00:00,1
+Warm_0083,Referral,Healthcare,Manager,51-200,1,6,12,1,1,2,2,2,3,0,0,2025-10-01T00:00:00,0
+Hot_0060,Organic,SaaS,VP,11-50,0,4,9,3,0,3,1,1,1,1,4,2025-11-20T00:00:00,0
+Warm_0001,Direct,Retail,IC,200+,1,4,7,1,2,1,1,0,0,0,15,2025-05-18T00:00:00,0
+Warm_0008,Organic,Home Services,VP,1-10,1,5,4,5,2,0,1,0,1,0,12,2025-10-29T00:00:00,1
+Cold_0091,Paid Search,Retail,VP,11-50,1,3,13,3,2,2,1,0,2,1,9,2025-04-21T00:00:00,1
+Cold_0017,Organic,Healthcare,VP,11-50,0,1,6,1,1,0,0,0,0,0,13,2025-08-03T00:00:00,0
+Cold_0079,Paid Search,Retail,Director,1-10,1,3,5,1,0,1,0,0,1,0,15,2025-03-06T00:00:00,0
+Warm_0005,Organic,Manufacturing,Manager,200+,1,5,5,3,0,1,0,1,4,0,3,2025-09-24T00:00:00,1
+Cold_0008,Paid Search,Home Services,Manager,200+,1,1,5,1,0,1,0,0,2,1,16,2025-11-03T00:00:00,0
+Cold_0078,Organic,Professional Services,Director,200+,1,0,1,1,1,1,0,0,0,0,5,2025-04-15T00:00:00,0
+Warm_0006,Email,Retail,IC,11-50,1,5,11,5,1,3,1,0,2,0,10,2025-03-21T00:00:00,0
+Hot_0045,Organic,Healthcare,IC,1-10,1,1,12,3,0,6,6,2,3,1,5,2025-11-04T00:00:00,1
+Hot_0041,Paid Search,SaaS,C-Suite,1-10,1,3,16,5,1,1,3,1,0,0,0,2025-03-26T00:00:00,1
+Warm_0024,Email,Manufacturing,Manager,51-200,0,2,9,4,2,0,0,0,3,1,4,2025-10-10T00:00:00,1
+Cold_0004,Organic,SaaS,Director,1-10,0,1,4,1,0,2,0,0,2,0,13,2025-09-14T00:00:00,0
+Warm_0034,Organic,Retail,IC,200+,1,2,10,3,2,0,1,0,1,0,0,2025-11-08T00:00:00,0
+Warm_0033,Organic,SaaS,VP,11-50,1,3,12,3,0,3,0,0,4,0,13,2025-11-20T00:00:00,1
+Hot_0001,Referral,Retail,Director,1-10,0,10,14,5,1,4,2,1,3,1,0,2025-01-02T00:00:00,1
+Cold_0061,Organic,Professional Services,Manager,200+,1,2,6,0,0,0,0,1,2,0,20,2025-09-01T00:00:00,0
+Hot_0026,Referral,Home Services,Director,1-10,1,10,12,6,3,2,3,0,3,2,0,2025-12-16T00:00:00,1
+Cold_0076,Paid Search,Home Services,Director,200+,1,2,2,0,0,1,0,0,2,0,20,2025-08-14T00:00:00,0
+Warm_0045,Paid Social,Home Services,Manager,51-200,1,0,14,5,1,1,1,0,4,0,2,2025-03-03T00:00:00,0
+Cold_0018,Email,Professional Services,Manager,1-10,0,3,4,0,0,0,0,0,0,0,22,2025-06-09T00:00:00,0
+Cold_0025,Organic,Manufacturing,Manager,51-200,1,2,2,0,1,0,0,0,0,0,10,2025-04-11T00:00:00,0
+Warm_0041,Paid Social,Retail,Manager,11-50,1,4,7,3,3,0,3,0,2,0,9,2025-08-10T00:00:00,0
+Cold_0119,Email,SaaS,Manager,1-10,1,4,5,1,1,0,0,0,0,0,15,2025-04-10T00:00:00,0
+Warm_0092,Paid Search,Home Services,IC,200+,0,6,15,3,1,2,0,0,0,1,5,2025-06-10T00:00:00,0
+Cold_0077,Email,Manufacturing,IC,11-50,1,3,6,2,1,0,0,0,2,0,8,2025-02-26T00:00:00,0
+Cold_0109,Direct,Retail,Director,51-200,1,1,6,3,2,1,1,0,2,0,9,2025-02-12T00:00:00,0
+Warm_0070,Organic,Manufacturing,Director,11-50,1,4,5,6,2,1,0,0,0,1,6,2025-05-30T00:00:00,1
+Cold_0133,Organic,SaaS,Director,11-50,1,2,6,3,2,1,2,0,1,1,14,2025-11-19T00:00:00,1
+Cold_0114,Organic,Healthcare,Director,11-50,1,4,1,0,4,1,1,0,3,0,7,2025-10-17T00:00:00,0
+Hot_0073,Paid Social,Retail,IC,51-200,1,4,11,8,3,2,3,2,2,2,0,2025-05-19T00:00:00,1
+Cold_0127,Referral,Retail,Manager,11-50,1,3,5,1,1,2,1,1,2,0,7,2025-11-03T00:00:00,0
+Hot_0066,Direct,Home Services,VP,1-10,1,5,20,4,1,1,0,0,2,0,9,2025-01-05T00:00:00,1
+Cold_0115,Paid Social,Professional Services,Manager,200+,1,6,2,2,2,0,1,0,0,0,17,2025-06-06T00:00:00,0
+Hot_0004,Paid Social,SaaS,C-Suite,51-200,1,5,12,3,1,2,0,2,1,0,0,2025-11-02T00:00:00,1
+Cold_0032,Referral,SaaS,Manager,11-50,1,4,8,1,0,1,1,0,0,0,17,2025-01-01T00:00:00,1
+Warm_0084,Organic,Manufacturing,Manager,11-50,1,4,7,5,4,1,1,0,5,0,3,2025-08-06T00:00:00,0
+Warm_0057,Organic,Home Services,IC,51-200,1,1,10,2,1,0,1,0,0,0,8,2025-02-08T00:00:00,0
+Warm_0013,Paid Search,Home Services,Director,11-50,1,2,11,0,0,1,0,1,1,0,4,2025-12-02T00:00:00,1
+Warm_0088,Paid Search,Professional Services,IC,11-50,0,3,14,5,3,0,3,0,2,1,15,2025-04-29T00:00:00,0
+Cold_0110,Organic,Home Services,Director,51-200,0,1,7,3,0,0,0,0,2,0,17,2025-03-12T00:00:00,0
+Warm_0004,Paid Search,Healthcare,Director,11-50,1,3,13,4,1,1,1,0,2,0,6,2025-07-07T00:00:00,0
+Cold_0060,Paid Search,Professional Services,Director,1-10,1,2,5,1,1,0,1,0,0,0,17,2025-07-16T00:00:00,0
+Cold_0117,Paid Social,Home Services,VP,11-50,1,2,11,2,3,1,1,0,1,0,18,2025-02-26T00:00:00,0
+Cold_0016,Referral,SaaS,Director,51-200,1,2,6,1,1,0,0,0,2,0,16,2025-07-17T00:00:00,1
+Cold_0007,Email,SaaS,C-Suite,11-50,0,3,8,2,0,1,1,0,1,0,20,2025-04-13T00:00:00,0
+Warm_0064,Email,Healthcare,Director,51-200,1,7,14,3,0,3,2,0,2,0,7,2025-08-03T00:00:00,0
+Cold_0094,Paid Search,Manufacturing,Manager,11-50,0,2,8,2,0,0,1,0,1,0,14,2025-07-18T00:00:00,0
+Cold_0031,Paid Search,Home Services,VP,1-10,1,7,6,1,0,2,0,0,2,0,9,2025-09-23T00:00:00,1
+Cold_0023,Paid Search,Retail,Manager,200+,1,0,1,0,0,0,0,0,0,1,18,2025-05-07T00:00:00,0
+Hot_0032,Paid Social,Professional Services,Director,51-200,1,4,11,10,3,4,2,1,3,1,0,2025-07-26T00:00:00,1
+Hot_0006,Organic,SaaS,Manager,11-50,1,7,11,8,0,2,3,3,3,0,0,2025-07-01T00:00:00,1
+Cold_0057,Email,Retail,Manager,11-50,1,0,6,1,0,0,1,0,1,0,14,2025-01-07T00:00:00,0
+Warm_0082,Organic,Retail,VP,11-50,0,3,7,0,0,3,1,0,5,0,3,2025-11-28T00:00:00,1
+Cold_0011,Email,Healthcare,Director,51-200,1,2,7,2,0,0,0,0,1,1,15,2025-06-18T00:00:00,0
+Warm_0072,Direct,Retail,Manager,51-200,0,5,12,4,0,2,3,0,2,1,6,2025-08-17T00:00:00,0
+Warm_0081,Email,SaaS,Manager,51-200,1,2,9,3,0,3,0,0,3,2,8,2025-08-02T00:00:00,1
+Cold_0082,Paid Search,Healthcare,IC,11-50,1,2,5,0,0,1,0,0,0,0,22,2025-05-20T00:00:00,1
+Hot_0018,Direct,Professional Services,Director,51-200,1,2,10,6,0,1,1,0,5,0,0,2025-03-25T00:00:00,1
+Cold_0040,Paid Social,Healthcare,IC,1-10,1,0,0,1,0,0,0,0,0,0,20,2025-06-14T00:00:00,0
+Warm_0089,Referral,Home Services,Manager,200+,0,6,13,2,2,0,1,1,3,0,3,2025-03-04T00:00:00,0
+Cold_0105,Referral,Professional Services,Manager,11-50,1,1,9,3,0,0,0,0,1,0,8,2025-06-27T00:00:00,0
+Warm_0014,Organic,Retail,Director,1-10,1,5,7,1,0,0,0,0,1,2,16,2025-12-13T00:00:00,1
+Hot_0076,Paid Search,Home Services,Manager,1-10,1,2,21,5,2,2,1,1,3,1,0,2025-01-20T00:00:00,1
+Hot_0009,Organic,Healthcare,IC,51-200,1,5,9,3,0,8,4,1,6,2,0,2025-07-28T00:00:00,1
+Warm_0028,Referral,Professional Services,C-Suite,1-10,0,6,14,4,1,2,0,1,2,0,10,2025-12-10T00:00:00,0
+Warm_0018,Paid Social,Manufacturing,Director,1-10,1,6,6,7,1,2,1,0,3,1,5,2025-10-12T00:00:00,1
+Cold_0067,Direct,Professional Services,IC,51-200,1,0,4,0,0,0,1,0,1,0,13,2025-02-05T00:00:00,0
+Warm_0065,Email,Healthcare,Director,51-200,1,3,7,3,0,0,0,0,1,0,16,2025-01-15T00:00:00,0
+Cold_0019,Paid Search,Manufacturing,VP,11-50,1,1,3,0,0,0,0,0,1,0,24,2025-11-04T00:00:00,0
+Hot_0063,Organic,Healthcare,Director,51-200,0,6,18,10,1,5,1,1,3,3,0,2025-05-25T00:00:00,1
+Warm_0107,Referral,SaaS,IC,11-50,0,3,7,3,0,1,1,1,1,0,16,2025-04-20T00:00:00,0
+Cold_0020,Paid Search,Manufacturing,IC,200+,1,1,11,3,2,2,1,0,1,0,9,2025-01-04T00:00:00,0
+Warm_0026,Organic,Retail,Manager,11-50,1,0,13,1,1,0,0,1,0,0,6,2025-10-06T00:00:00,1
+Cold_0093,Paid Search,Professional Services,IC,1-10,1,2,4,4,1,3,1,0,3,0,7,2025-07-28T00:00:00,0
+Cold_0080,Direct,Home Services,Director,1-10,1,4,11,6,2,3,0,0,1,2,1,2025-11-02T00:00:00,0
+Cold_0070,Paid Search,SaaS,IC,11-50,1,0,5,3,0,0,0,0,1,1,15,2025-10-05T00:00:00,0
+Warm_0019,Referral,Retail,Manager,11-50,1,6,9,1,0,0,0,0,1,0,10,2025-09-09T00:00:00,0
+Warm_0063,Email,Home Services,Manager,11-50,0,1,9,2,1,3,2,1,2,0,12,2025-08-26T00:00:00,1
+Cold_0073,Paid Social,Healthcare,Manager,1-10,1,3,6,2,1,0,0,0,1,1,15,2025-02-14T00:00:00,0
+Cold_0097,Email,Healthcare,Director,11-50,1,0,2,2,0,0,0,0,1,0,13,2025-11-30T00:00:00,0
+Cold_0098,Paid Search,Healthcare,Director,11-50,0,3,6,1,1,0,0,0,0,1,12,2025-09-29T00:00:00,0
+Hot_0064,Paid Social,SaaS,Director,51-200,1,6,15,6,2,2,3,0,2,2,0,2025-01-08T00:00:00,1
+Cold_0069,Email,Manufacturing,Director,1-10,0,1,2,0,0,0,0,0,1,0,21,2025-08-27T00:00:00,0
+Cold_0024,Organic,Healthcare,IC,200+,1,1,3,2,0,0,1,0,2,0,23,2025-10-12T00:00:00,1
+Cold_0038,Paid Search,Professional Services,Manager,51-200,0,0,2,0,0,1,0,0,0,0,7,2025-06-15T00:00:00,0
+Warm_0100,Direct,Manufacturing,Manager,1-10,1,3,13,7,5,4,3,0,1,2,0,2025-05-16T00:00:00,1
+Cold_0068,Direct,Healthcare,Manager,11-50,1,2,5,2,0,1,0,0,1,0,13,2025-09-24T00:00:00,1
+Hot_0036,Email,Home Services,Director,1-10,0,8,16,6,2,2,1,2,2,0,10,2025-09-13T00:00:00,1
+Warm_0055,Organic,SaaS,VP,1-10,1,9,16,4,0,1,3,0,4,1,8,2025-12-26T00:00:00,0
+Cold_0126,Organic,Home Services,IC,51-200,1,2,6,4,0,0,0,0,1,0,14,2025-06-08T00:00:00,0
+Warm_0054,Paid Search,Professional Services,VP,11-50,1,3,8,3,1,0,1,0,0,0,0,2025-03-11T00:00:00,1
+Cold_0087,Email,Retail,VP,200+,1,1,2,0,0,0,0,0,2,0,17,2025-05-18T00:00:00,0
+Hot_0030,Email,Retail,IC,1-10,1,5,12,6,4,1,3,2,0,2,1,2025-06-21T00:00:00,1
+Warm_0056,Organic,Manufacturing,Manager,11-50,1,2,12,4,3,1,1,1,2,0,9,2025-11-26T00:00:00,1
+Hot_0031,Email,Healthcare,Manager,11-50,1,5,8,6,4,0,2,1,0,1,1,2025-04-23T00:00:00,1
+Warm_0007,Organic,Manufacturing,IC,51-200,1,2,6,3,0,1,2,0,1,0,11,2025-11-09T00:00:00,0
+Warm_0105,Email,Professional Services,Director,1-10,1,4,8,4,1,0,4,0,0,0,7,2025-10-21T00:00:00,0
+Warm_0009,Organic,Professional Services,Manager,11-50,0,8,7,1,0,3,1,1,0,0,9,2025-01-27T00:00:00,0
+Warm_0085,Organic,SaaS,Director,1-10,0,6,14,5,1,5,2,0,0,2,0,2025-12-05T00:00:00,1
+Warm_0016,Organic,SaaS,VP,11-50,1,3,8,4,1,1,1,1,2,2,5,2025-07-21T00:00:00,1
+Hot_0017,Paid Search,Manufacturing,Manager,11-50,1,6,14,9,1,3,3,0,3,0,8,2025-01-21T00:00:00,1
+Cold_0130,Paid Social,Manufacturing,IC,11-50,1,1,3,0,0,0,1,0,0,0,19,2025-09-08T00:00:00,0
+Cold_0039,Paid Social,SaaS,Manager,51-200,0,2,3,0,0,1,1,0,1,1,21,2025-08-14T00:00:00,0
+Hot_0039,Direct,Manufacturing,Director,1-10,1,3,20,5,2,2,5,3,5,1,0,2025-04-30T00:00:00,1
+Warm_0059,Email,Retail,Manager,51-200,0,7,13,8,2,6,3,0,3,1,0,2025-01-02T00:00:00,1
+Warm_0090,Referral,Home Services,IC,11-50,1,5,16,7,2,3,1,0,1,0,2,2025-03-19T00:00:00,1
+Cold_0113,Referral,Home Services,Manager,1-10,1,3,2,0,2,0,0,0,0,0,15,2025-06-10T00:00:00,0
+Warm_0058,Organic,Healthcare,Director,11-50,1,2,20,2,2,3,0,0,2,0,3,2025-07-10T00:00:00,0
+Cold_0118,Organic,Home Services,C-Suite,51-200,1,4,9,3,0,0,0,0,2,1,14,2025-05-09T00:00:00,0
+Hot_0056,Referral,Professional Services,VP,200+,0,4,16,6,5,2,3,3,2,0,0,2025-01-08T00:00:00,0
+Hot_0069,Paid Search,Home Services,Director,51-200,1,4,8,3,0,1,0,0,1,0,11,2025-09-22T00:00:00,0
+Hot_0050,Paid Social,Healthcare,VP,11-50,1,5,17,1,3,3,3,0,3,0,4,2025-05-15T00:00:00,1
+Warm_0042,Paid Search,Healthcare,VP,11-50,1,4,11,5,1,3,1,0,2,1,8,2025-08-15T00:00:00,0
+Warm_0067,Paid Social,Manufacturing,VP,51-200,1,4,16,5,1,3,1,0,2,1,7,2025-02-04T00:00:00,1
+Warm_0015,Organic,SaaS,VP,200+,1,3,9,4,2,0,0,0,3,1,11,2025-11-02T00:00:00,0
+Warm_0069,Organic,Home Services,Director,11-50,1,4,9,2,2,1,0,0,1,0,17,2025-05-16T00:00:00,1
+Cold_0003,Email,Manufacturing,IC,1-10,0,4,2,0,0,1,0,0,0,0,13,2025-05-30T00:00:00,0
+Cold_0116,Organic,Home Services,VP,11-50,1,2,6,1,0,1,0,0,1,0,18,2025-10-24T00:00:00,0
+Warm_0044,Paid Search,SaaS,Director,51-200,1,2,18,4,1,2,1,0,5,0,4,2025-07-21T00:00:00,1
+Hot_0016,Paid Social,Manufacturing,Director,51-200,1,7,14,3,0,3,2,2,3,1,3,2025-03-04T00:00:00,1
+Cold_0121,Paid Search,Retail,Director,51-200,1,1,4,0,0,0,0,0,0,0,13,2025-09-30T00:00:00,0
+Hot_0012,Paid Social,Home Services,VP,51-200,1,4,11,0,1,3,2,0,4,0,5,2025-04-21T00:00:00,1
+Hot_0037,Paid Search,Retail,IC,11-50,1,4,18,3,1,2,4,2,1,0,12,2025-02-11T00:00:00,1
+Cold_0128,Paid Search,Professional Services,VP,11-50,1,2,9,1,0,0,0,0,1,1,13,2025-09-30T00:00:00,0
+Cold_0075,Referral,Healthcare,VP,51-200,0,2,9,2,0,2,0,0,0,1,11,2025-08-07T00:00:00,1
+Cold_0030,Paid Search,SaaS,Manager,200+,1,2,8,1,0,1,0,0,1,0,7,2025-06-15T00:00:00,0
+Cold_0084,Referral,Healthcare,Director,1-10,0,0,2,0,0,0,0,0,0,0,21,2025-07-16T00:00:00,0
+Hot_0025,Paid Social,Healthcare,Manager,51-200,1,7,20,3,3,1,2,1,3,0,0,2025-09-20T00:00:00,0
+Cold_0108,Email,Professional Services,Manager,11-50,1,0,2,1,0,0,0,0,0,1,12,2025-07-27T00:00:00,0
+Warm_0040,Paid Search,Healthcare,Manager,1-10,1,1,18,5,1,5,4,0,3,0,1,2025-04-29T00:00:00,1
+Warm_0046,Paid Social,Manufacturing,Manager,1-10,1,3,5,3,2,0,3,1,1,1,8,2025-08-12T00:00:00,1
+Cold_0134,Paid Social,Home Services,Director,200+,1,2,8,1,2,0,0,0,3,0,9,2025-09-04T00:00:00,1
+Warm_0086,Email,Healthcare,IC,11-50,1,8,8,2,0,2,0,0,0,0,9,2025-08-13T00:00:00,1
+Cold_0045,Organic,Healthcare,Manager,1-10,1,2,4,0,0,0,0,0,1,1,15,2025-11-19T00:00:00,0
+Hot_0055,Paid Social,Retail,Director,51-200,0,5,14,8,2,1,2,1,4,1,0,2025-11-20T00:00:00,1
+Cold_0066,Paid Search,Professional Services,Manager,1-10,1,2,3,2,0,1,1,0,1,1,13,2025-03-10T00:00:00,0
+Warm_0095,Direct,Retail,Manager,1-10,1,4,8,2,0,2,0,0,0,1,0,2025-01-14T00:00:00,0
+Cold_0086,Paid Search,Healthcare,Manager,200+,0,5,2,1,0,0,0,0,0,0,17,2025-10-12T00:00:00,0
+Warm_0047,Direct,Home Services,IC,11-50,0,7,5,7,1,0,0,1,4,1,13,2025-09-23T00:00:00,0
+Hot_0005,Organic,Healthcare,Manager,11-50,1,6,14,4,2,1,2,1,4,0,9,2025-01-14T00:00:00,1
+Warm_0020,Organic,Professional Services,Manager,11-50,1,2,6,4,0,1,1,0,1,0,12,2025-11-03T00:00:00,0
+Cold_0013,Organic,Manufacturing,Director,11-50,1,1,1,1,1,0,1,0,0,0,16,2025-07-22T00:00:00,0
+Cold_0036,Referral,Manufacturing,C-Suite,200+,1,2,5,2,0,0,1,0,1,0,7,2025-01-10T00:00:00,0
+Cold_0029,Paid Search,Home Services,Director,1-10,0,2,7,2,2,1,1,0,3,0,9,2025-07-03T00:00:00,0
+Warm_0031,Paid Search,SaaS,Director,11-50,1,3,10,7,2,2,1,1,1,0,3,2025-09-08T00:00:00,1
+Warm_0003,Paid Social,Home Services,Director,1-10,0,5,11,2,1,2,0,0,1,0,0,2025-07-07T00:00:00,1
+Warm_0087,Paid Search,Retail,Manager,1-10,0,3,4,3,0,3,0,0,2,0,8,2025-02-17T00:00:00,0
+Cold_0132,Referral,Healthcare,IC,11-50,1,1,4,1,0,0,1,0,1,0,18,2025-10-09T00:00:00,0
+Warm_0060,Organic,SaaS,C-Suite,11-50,1,3,10,4,2,1,2,0,1,0,2,2025-10-04T00:00:00,1
+Cold_0052,Paid Search,SaaS,IC,1-10,1,0,6,0,1,2,0,0,0,0,16,2025-08-13T00:00:00,0
+Cold_0096,Direct,Home Services,Director,51-200,1,0,3,4,1,1,0,0,0,2,14,2025-08-05T00:00:00,1
+Warm_0108,Paid Search,Retail,VP,11-50,1,5,17,2,0,4,2,1,1,2,8,2025-11-23T00:00:00,1
+Warm_0039,Paid Search,Professional Services,IC,51-200,1,5,8,3,0,0,2,1,1,1,5,2025-12-18T00:00:00,0
+Cold_0124,Referral,Healthcare,VP,11-50,1,0,2,2,0,1,0,0,1,0,18,2025-02-13T00:00:00,0
+Cold_0042,Organic,Healthcare,Manager,11-50,1,3,8,3,1,2,1,0,1,0,12,2025-01-12T00:00:00,1
+Cold_0090,Paid Search,Retail,IC,51-200,0,2,5,2,3,1,0,0,1,0,11,2025-07-05T00:00:00,0
+Hot_0065,Paid Social,Healthcare,IC,200+,1,6,19,4,3,3,2,1,2,0,0,2025-01-31T00:00:00,0
+Cold_0137,Paid Search,Retail,IC,1-10,1,5,9,2,0,0,0,0,1,1,17,2025-02-05T00:00:00,0
+Cold_0027,Organic,Professional Services,VP,11-50,0,2,6,2,0,0,0,0,0,0,14,2025-04-21T00:00:00,0
+Hot_0074,Paid Search,Retail,Manager,11-50,1,3,19,5,1,0,1,2,5,0,0,2025-01-23T00:00:00,1
+Warm_0002,Direct,Professional Services,Manager,11-50,1,0,3,0,1,2,1,1,0,0,12,2025-03-29T00:00:00,1
+Warm_0099,Referral,Healthcare,Manager,11-50,1,5,11,6,0,2,1,0,2,0,6,2025-11-12T00:00:00,1
+Cold_0001,Paid Search,Manufacturing,IC,51-200,0,0,7,2,0,0,1,0,0,1,15,2025-05-13T00:00:00,0
+Hot_0047,Organic,Professional Services,Director,11-50,1,2,10,5,0,5,1,3,4,1,0,2025-11-11T00:00:00,1
+Hot_0034,Organic,Retail,Manager,1-10,1,3,1,7,2,2,3,0,4,0,3,2025-12-26T00:00:00,1
+Hot_0051,Organic,Home Services,VP,1-10,1,5,16,4,4,4,1,2,2,0,1,2025-03-22T00:00:00,1
+Cold_0101,Paid Search,Manufacturing,VP,11-50,1,1,5,5,2,1,1,0,3,0,15,2025-10-20T00:00:00,0
+Warm_0053,Email,Manufacturing,Manager,11-50,0,3,8,4,0,2,2,0,1,0,11,2025-03-29T00:00:00,0
+Hot_0035,Paid Social,Retail,VP,1-10,1,4,17,3,1,3,3,2,4,0,0,2025-08-07T00:00:00,1
+Warm_0079,Email,Retail,Director,1-10,1,3,7,6,0,5,2,0,3,0,7,2025-10-03T00:00:00,0
+Warm_0074,Organic,Healthcare,IC,1-10,0,4,12,5,1,1,4,0,3,0,0,2025-12-11T00:00:00,1
+Cold_0104,Direct,SaaS,C-Suite,1-10,1,2,4,3,0,0,0,0,0,0,16,2025-06-20T00:00:00,0
+Warm_0032,Paid Search,SaaS,Director,1-10,1,3,15,5,1,1,0,0,1,1,9,2025-06-08T00:00:00,1
+Cold_0099,Referral,SaaS,Director,11-50,0,1,8,0,0,0,0,0,0,0,12,2025-02-21T00:00:00,0
+Cold_0037,Paid Social,SaaS,VP,11-50,0,2,6,3,2,0,0,0,1,0,9,2025-05-25T00:00:00,0
+Warm_0109,Paid Social,SaaS,VP,51-200,0,5,6,5,1,0,1,0,3,0,12,2025-04-19T00:00:00,0
+Cold_0062,Paid Social,SaaS,Manager,1-10,1,1,5,0,0,0,0,0,0,0,13,2025-02-10T00:00:00,0
+Warm_0011,Paid Search,Healthcare,IC,1-10,1,0,5,3,0,0,1,1,0,0,12,2025-01-14T00:00:00,0
+Cold_0048,Organic,Home Services,Director,11-50,0,2,5,3,0,0,0,0,1,0,17,2025-10-28T00:00:00,0
+Warm_0101,Paid Search,SaaS,C-Suite,51-200,1,3,10,2,2,1,3,0,3,0,0,2025-07-23T00:00:00,1
+Hot_0043,Direct,Home Services,IC,51-200,1,8,11,5,1,0,0,1,2,2,8,2025-10-15T00:00:00,1
+Cold_0012,Referral,Healthcare,Manager,11-50,1,1,3,1,1,2,1,0,0,0,12,2025-02-17T00:00:00,0
+Hot_0077,Email,Retail,Manager,1-10,1,7,16,8,1,4,5,2,3,1,0,2025-03-02T00:00:00,1
+Warm_0061,Email,SaaS,IC,1-10,1,2,4,1,2,3,0,1,0,0,0,2025-05-11T00:00:00,0
+Hot_0046,Organic,Retail,Director,200+,0,8,9,4,4,5,0,2,1,1,0,2025-01-30T00:00:00,1
+Cold_0028,Referral,Healthcare,Manager,51-200,0,2,3,4,0,1,0,0,0,0,17,2025-08-15T00:00:00,0
+Hot_0028,Paid Social,SaaS,Manager,1-10,1,4,18,2,2,4,1,0,3,0,0,2025-10-02T00:00:00,1
+Warm_0091,Paid Search,Manufacturing,Manager,11-50,1,3,10,2,2,1,0,0,1,0,8,2025-01-01T00:00:00,1
+Warm_0094,Referral,Professional Services,VP,11-50,1,4,8,3,2,2,2,0,1,0,3,2025-01-17T00:00:00,1
+Cold_0005,Paid Search,Healthcare,C-Suite,11-50,1,2,1,0,0,0,0,0,0,0,14,2025-08-12T00:00:00,0
+Cold_0123,Direct,Healthcare,C-Suite,51-200,1,2,5,1,1,1,0,0,0,0,15,2025-04-17T00:00:00,0
+Cold_0033,Organic,Professional Services,Director,11-50,0,2,8,3,1,0,0,0,0,0,11,2025-06-01T00:00:00,0
+Warm_0106,Organic,Professional Services,Director,11-50,1,1,13,4,1,1,0,0,2,1,12,2025-06-14T00:00:00,0
+Warm_0023,Referral,Retail,VP,1-10,0,5,11,0,2,0,0,0,1,0,12,2025-01-10T00:00:00,0
+Warm_0110,Paid Search,Professional Services,VP,200+,1,5,10,4,0,4,2,1,1,0,9,2025-08-15T00:00:00,1
+Hot_0033,Email,SaaS,Director,1-10,1,6,12,3,0,0,2,2,1,0,3,2025-04-05T00:00:00,1
+Warm_0103,Direct,Manufacturing,Manager,11-50,1,4,9,2,3,3,1,1,3,0,5,2025-07-15T00:00:00,1
+Cold_0139,Direct,Professional Services,Manager,51-200,0,6,7,1,2,0,2,0,3,0,10,2025-01-10T00:00:00,0
+Cold_0063,Organic,Home Services,Director,1-10,1,1,5,1,0,0,0,0,3,0,21,2025-09-25T00:00:00,0
+Warm_0076,Paid Social,SaaS,IC,11-50,1,5,4,4,0,1,0,0,0,0,15,2025-06-28T00:00:00,0
+Cold_0136,Organic,Healthcare,VP,11-50,1,1,2,1,0,0,0,0,0,1,20,2025-08-31T00:00:00,0
+Hot_0058,Direct,Manufacturing,IC,1-10,1,5,21,4,2,2,3,2,5,0,0,2025-09-15T00:00:00,1
+Cold_0129,Direct,Retail,Director,1-10,1,0,3,0,0,0,0,0,1,0,18,2025-05-03T00:00:00,0
+Hot_0071,Paid Search,Healthcare,Manager,1-10,1,3,12,4,1,2,5,0,0,0,10,2025-06-23T00:00:00,1
+Cold_0009,Paid Search,Home Services,IC,1-10,1,1,11,3,2,0,1,0,1,1,10,2025-06-16T00:00:00,0
+Cold_0071,Organic,Professional Services,VP,1-10,1,1,0,0,0,2,0,0,1,0,19,2025-09-18T00:00:00,0
+Hot_0042,Organic,Professional Services,Director,1-10,1,5,3,3,1,0,1,1,1,0,12,2025-01-29T00:00:00,0
+Cold_0065,Email,SaaS,Manager,200+,0,2,3,2,0,0,1,0,0,0,16,2025-02-05T00:00:00,0
+Cold_0015,Email,Retail,Director,51-200,1,0,1,1,1,0,0,0,1,0,8,2025-12-20T00:00:00,0
+Warm_0017,Paid Search,Manufacturing,Director,200+,1,4,15,4,1,2,2,1,2,0,5,2025-03-15T00:00:00,1
+Cold_0041,Organic,Retail,Manager,1-10,1,2,1,0,0,0,0,0,0,0,16,2025-08-26T00:00:00,0
+Hot_0054,Email,Professional Services,VP,200+,1,6,20,7,4,0,2,2,3,2,0,2025-09-20T00:00:00,1
+Hot_0019,Email,Retail,VP,11-50,1,5,14,4,3,3,1,1,5,0,0,2025-11-27T00:00:00,1
+Warm_0077,Paid Search,Manufacturing,Manager,1-10,1,8,14,0,1,2,0,0,3,0,10,2025-01-14T00:00:00,0
+Hot_0038,Paid Search,SaaS,Manager,1-10,1,4,10,1,6,2,1,2,2,0,0,2025-07-26T00:00:00,1
+Warm_0097,Organic,Retail,Manager,200+,1,7,4,1,0,1,0,0,1,0,8,2025-09-27T00:00:00,0
+Warm_0068,Referral,Home Services,Director,1-10,0,4,12,8,1,0,1,0,1,2,0,2025-06-19T00:00:00,1
+Warm_0073,Organic,Retail,IC,1-10,1,0,4,6,4,3,0,0,1,2,4,2025-10-28T00:00:00,1
+Hot_0052,Paid Search,Retail,VP,200+,0,3,18,5,2,3,3,2,3,1,5,2025-03-20T00:00:00,1
+Hot_0002,Direct,Home Services,IC,11-50,1,6,12,6,0,4,4,2,0,0,2,2025-10-24T00:00:00,1
+Hot_0072,Email,Home Services,Manager,11-50,0,2,5,2,2,1,1,2,2,0,7,2025-10-26T00:00:00,1
+Hot_0053,Paid Search,Manufacturing,VP,51-200,1,6,20,9,0,4,3,1,2,1,0,2025-04-21T00:00:00,1
+Hot_0020,Paid Social,Home Services,VP,1-10,1,3,10,1,1,2,1,1,4,2,1,2025-06-09T00:00:00,0
+Warm_0062,Paid Search,Home Services,Manager,1-10,1,2,14,6,1,0,2,0,4,0,7,2025-07-20T00:00:00,0
+Warm_0022,Paid Search,Manufacturing,Manager,51-200,0,3,11,1,0,1,3,0,2,0,4,2025-05-26T00:00:00,0
+Cold_0044,Organic,Retail,Manager,200+,1,1,8,4,2,0,1,0,2,0,10,2025-03-22T00:00:00,0
+Warm_0078,Paid Search,SaaS,Director,1-10,1,4,6,2,0,1,2,1,0,1,4,2025-04-03T00:00:00,1
+Warm_0051,Organic,Manufacturing,Manager,200+,0,4,8,0,0,2,0,0,3,0,13,2025-07-25T00:00:00,0
+Hot_0010,Referral,Healthcare,VP,1-10,1,4,17,4,2,3,1,2,1,1,0,2025-07-01T00:00:00,1
+Cold_0106,Paid Search,Professional Services,VP,51-200,0,5,2,2,0,0,1,0,0,0,16,2025-04-16T00:00:00,0
+Cold_0054,Paid Search,SaaS,IC,200+,0,1,8,2,1,0,0,0,1,1,12,2025-08-08T00:00:00,0
+Cold_0002,Email,Professional Services,Manager,11-50,0,0,4,1,1,0,0,0,0,0,17,2025-06-22T00:00:00,0
+Cold_0050,Paid Search,SaaS,Director,51-200,1,0,4,1,0,0,0,0,2,0,11,2025-04-01T00:00:00,0
+Cold_0081,Email,Healthcare,Director,11-50,1,2,7,0,0,0,0,0,0,0,19,2025-03-11T00:00:00,0
+Warm_0066,Organic,Healthcare,Director,1-10,1,2,9,6,0,1,2,0,1,0,8,2025-02-01T00:00:00,0
+Cold_0035,Direct,SaaS,VP,51-200,1,1,7,1,0,1,0,0,1,0,19,2025-10-23T00:00:00,0
+Hot_0014,Paid Search,Home Services,Manager,200+,1,5,3,2,1,1,3,1,4,1,7,2025-12-06T00:00:00,0
+Cold_0092,Paid Search,Retail,VP,200+,1,0,3,4,0,0,1,0,0,1,18,2025-10-25T00:00:00,0
+Cold_0053,Paid Search,Retail,Manager,11-50,1,1,6,2,0,0,0,0,1,1,10,2025-05-13T00:00:00,0
+Hot_0015,Paid Search,Professional Services,Director,11-50,0,3,7,3,1,2,5,3,0,1,8,2025-03-07T00:00:00,1
+Warm_0102,Email,SaaS,IC,11-50,1,5,18,8,1,0,1,0,1,0,0,2025-12-25T00:00:00,0
+Cold_0014,Email,Retail,Manager,51-200,0,3,3,1,0,0,0,0,0,0,20,2025-05-23T00:00:00,0
+Cold_0089,Organic,Manufacturing,Director,11-50,1,1,2,0,0,0,0,0,0,0,12,2025-04-15T00:00:00,0
+Hot_0024,Paid Social,SaaS,Director,1-10,1,6,15,7,0,1,2,1,3,0,12,2025-11-26T00:00:00,1
+Warm_0027,Organic,Healthcare,Manager,1-10,1,2,3,1,2,1,1,0,2,0,11,2025-11-11T00:00:00,0
+Hot_0075,Referral,Retail,Manager,11-50,1,4,8,1,5,5,1,3,0,0,0,2025-06-22T00:00:00,1
+Cold_0135,Email,Healthcare,Director,51-200,1,2,7,1,0,0,0,0,1,0,16,2025-02-15T00:00:00,0
+Hot_0068,Paid Social,Professional Services,Director,1-10,1,2,7,2,0,0,2,2,2,0,9,2025-11-01T00:00:00,1
+Warm_0104,Email,Manufacturing,Manager,51-200,0,3,4,3,0,0,0,0,4,0,7,2025-02-15T00:00:00,0
+Cold_0055,Paid Search,Retail,Director,51-200,1,0,8,4,3,2,2,0,1,0,14,2025-12-17T00:00:00,1
+Cold_0051,Referral,Manufacturing,VP,200+,0,3,3,0,1,0,0,0,0,0,10,2025-05-14T00:00:00,0
+Warm_0035,Paid Search,Retail,Director,1-10,1,5,6,5,1,2,0,0,0,1,16,2025-12-04T00:00:00,0
+Warm_0050,Direct,SaaS,IC,1-10,1,5,19,3,0,1,0,0,1,1,0,2025-11-02T00:00:00,1
+Hot_0079,Paid Search,Healthcare,C-Suite,51-200,1,5,8,7,1,1,1,1,3,1,9,2025-07-04T00:00:00,1
+Warm_0048,Organic,SaaS,IC,200+,0,5,11,2,2,1,0,0,5,0,8,2025-10-17T00:00:00,0
+Warm_0030,Paid Search,Professional Services,Director,1-10,1,3,8,5,4,1,2,0,6,0,21,2025-07-10T00:00:00,0
+Cold_0059,Organic,Manufacturing,IC,1-10,1,2,5,1,0,0,0,0,0,0,13,2025-10-02T00:00:00,0
+Cold_0049,Email,Manufacturing,Director,51-200,0,1,3,3,0,1,1,0,2,0,18,2025-08-07T00:00:00,0
+Warm_0096,Paid Search,Retail,Manager,200+,1,1,6,2,1,0,0,1,2,0,18,2025-12-11T00:00:00,0
+Hot_0003,Paid Search,Manufacturing,Manager,11-50,1,9,15,5,1,6,3,1,2,0,0,2025-08-02T00:00:00,0
+Cold_0022,Referral,Home Services,C-Suite,51-200,1,1,6,3,1,0,1,0,1,1,20,2025-07-14T00:00:00,0
+Warm_0021,Paid Search,Retail,VP,1-10,1,5,8,1,1,0,1,1,1,0,13,2025-02-25T00:00:00,0
+Hot_0027,Referral,Healthcare,Manager,51-200,1,7,10,5,1,1,0,0,3,1,4,2025-10-27T00:00:00,0
+Warm_0052,Paid Search,SaaS,VP,1-10,1,0,10,2,0,1,0,2,2,0,8,2025-01-29T00:00:00,0
+Hot_0044,Paid Search,Manufacturing,VP,1-10,1,5,10,0,1,4,0,2,7,0,8,2025-06-04T00:00:00,1
+Hot_0008,Paid Social,Healthcare,Manager,51-200,1,4,14,4,4,3,2,1,3,2,0,2025-03-27T00:00:00,1
+Hot_0059,Paid Social,Healthcare,VP,11-50,1,4,11,2,1,3,1,2,1,1,1,2025-02-18T00:00:00,1
+Warm_0010,Direct,Retail,Manager,11-50,1,4,9,2,1,1,1,0,1,0,6,2025-07-28T00:00:00,0
+Cold_0131,Paid Search,Healthcare,Manager,1-10,0,1,5,0,0,0,0,0,0,0,10,2025-04-20T00:00:00,0
+Warm_0012,Paid Search,Healthcare,Manager,11-50,1,8,9,6,2,1,1,0,1,1,5,2025-06-10T00:00:00,0
+Cold_0100,Organic,Healthcare,IC,11-50,0,2,4,0,1,1,0,0,2,0,16,2025-02-11T00:00:00,0
+Cold_0088,Direct,Retail,Manager,51-200,0,2,4,2,0,0,1,0,3,1,19,2025-03-04T00:00:00,0
+Warm_0075,Paid Search,Home Services,IC,51-200,1,5,13,2,0,2,2,0,1,0,11,2025-11-07T00:00:00,0
+Cold_0122,Paid Search,Manufacturing,IC,200+,0,5,9,3,0,0,2,0,0,1,17,2025-10-17T00:00:00,0
+Hot_0080,Paid Search,Healthcare,Manager,51-200,1,9,9,9,1,2,1,1,6,0,1,2025-02-09T00:00:00,1
+Cold_0021,Email,Professional Services,VP,51-200,1,5,16,1,1,3,1,0,3,0,13,2025-10-06T00:00:00,0
+Warm_0049,Direct,Manufacturing,C-Suite,1-10,0,3,5,3,1,0,3,0,2,0,10,2025-09-22T00:00:00,1
+Cold_0072,Paid Search,Healthcare,Manager,11-50,1,2,11,1,1,1,1,0,2,0,6,2025-05-17T00:00:00,0
+Cold_0107,Paid Search,Healthcare,Manager,1-10,1,1,2,2,0,1,1,0,1,1,13,2025-07-06T00:00:00,1
+Hot_0021,Paid Search,Manufacturing,Director,1-10,1,6,16,6,0,3,3,0,1,2,4,2025-11-14T00:00:00,0
+Cold_0103,Direct,Manufacturing,IC,1-10,1,4,9,1,0,0,0,0,0,0,11,2025-02-15T00:00:00,1
